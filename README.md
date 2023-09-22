@@ -24,9 +24,9 @@ samples, guidance on mobile development, and a full API reference.
 <img src="https://github.com/FaresSallam75/notes_app/assets/115936044/8dc4e206-1362-4e6f-979b-cce5665fcf75" width="200px" height="400px" /> 
 </picture>
 <picture>  
-<img src="https://github.com/FaresSallam75/notes_app/assets/115936044/af70a7dd-08ca-4f5f-8826-2fa6ad041d4a" width="400px" height="400px" /> 
+<img src="https://github.com/FaresSallam75/notes_app/assets/115936044/af70a7dd-08ca-4f5f-8826-2fa6ad041d4a" width="200px" height="400px" /> 
 </picture>
 <picture>  
-<img src="https://github.com/FaresSallam75/notes_app/assets/115936044/9f5be729-9850-4be4-83b9-ed07bcf24f1a" width="400px" height="400px" /> 
+<img src="https://github.com/FaresSallam75/notes_app/assets/115936044/9f5be729-9850-4be4-83b9-ed07bcf24f1a" width="200px" height="400px" /> 
 </picture>
 
